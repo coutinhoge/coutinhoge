@@ -24,6 +24,10 @@
 
 <div align="center">
     <h3>🛠 Skills, languages and tools</h3>
+    <img align="center" alt="Dart" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+    <img align="center" alt="Flutter" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
     <img align="center" alt="Git" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Github" height="30" width="40"
