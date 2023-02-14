@@ -58,15 +58,6 @@
 <hr>
 
 <div align="center">
-    <h3>📬 Connect with me</h3>
-    <a href="https://www.linkedin.com/in/gabriel-coutinho-727430266/" target="_blank"><img
-            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            target="_blank"></a>
-</div>
-
-<hr>
-
-<div align="center">
     <img src="two.gif" alt="gifer.com" />
 </div>
 
