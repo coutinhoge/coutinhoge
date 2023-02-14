@@ -39,9 +39,9 @@
     <h3>📊 Github Stats</h3>
     <img src='https://github.com/gabriel-079/gabriel-079/blob/main/octocat.gif' width='150' align='left'>
     <a href="https://github.com/gabriel-079">
-        <img height="140em"
+        <img height="135em"
             src="https://github-readme-stats.vercel.app/api?username=gabriel-079&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-        <img height="140em"
+        <img height="135em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-079&layout=compact&langs_count=7&theme=tokyonight" />
         <a href="https://github.com/gabriel-079">
 </div>
@@ -50,8 +50,8 @@
 
 <div align="center">
     <h3>🧐 More About Me</h3>
-    <p>🔭 I’m currently working on ... I am in the process of professional development.</p>
-    <p>🌱 I’m currently learning ... Concepts of logic and construction of algorithms.</p>
+    <p>🔭 I’m currently working on ... </p>
+    <p>🌱 I’m currently learning ... </p>
 </div>
 
 <hr>
