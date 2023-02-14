@@ -23,7 +23,15 @@
 <hr>
 
 <div align="center">
-    <h3>🛠 Skills, languages and tools</h3>
+    <h3>🧐 About me</h3>
+    <p>🔭 I’m currently working on ... </p>
+    <p>🌱 I’m currently learning ... </p>
+</div>
+
+<hr>
+
+<div align="center">
+    <h3>🛠 Technologies & Tools</h3>
     <img align="center" alt="Dart" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
     <img align="center" alt="Flutter" height="30" width="40"
@@ -51,16 +59,8 @@
         <a href="https://github.com/gabriel-079">
 </div>
 
-<hr>
-
-<div align="center">
-    <h3>🧐 About me</h3>
-    <p>🔭 I’m currently working on ... </p>
-    <p>🌱 I’m currently learning ... </p>
-</div>
-
-<hr>
-
+<hr>      
+        
 <div align="center">
     <img src="two.gif" alt="gifer.com" />
 </div>
