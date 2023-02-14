@@ -12,8 +12,8 @@
 
 <hr>
 
-<div>
-    <h3 align="center"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">Hello
+<div align="center">
+    <h3><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">Hello
         World!</h3>
     <p>⚡ Fun fact: ... Called the Apollo Guidance Computer (AGC), with just over 4 MB of RAM memory for reading data,
         in addition to 72 KB of ROM memory, the computer on board the spacecraft had the processing capacity of a toy
@@ -23,6 +23,7 @@
 <hr>
 
 <div align="center">
+    <h3>🛠 Skills, languages and tools</h3>
     <img align="center" alt="Git" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Github" height="30" width="40"
