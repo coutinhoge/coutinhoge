@@ -54,7 +54,7 @@
 <hr>
 
 <div align="center">
-    <h3>🧐 More About Me</h3>
+    <h3>🧐 About me</h3>
     <p>🔭 I’m currently working on ... </p>
     <p>🌱 I’m currently learning ... </p>
 </div>
