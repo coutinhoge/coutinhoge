@@ -23,14 +23,6 @@
 <hr>
 
 <div align="center">
-    <h3>🧐 About me</h3>
-    <p>🔭 I’m currently working on ... </p>
-    <p>🌱 I’m currently learning ... </p>
-</div>
-
-<hr>
-
-<div align="center">
     <h3>🛠 Technologies & Tools</h3>
     <img align="center" alt="Dart" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
