@@ -24,12 +24,16 @@
 
 <div align="center">
     <h3>🛠 Languages, Frameworks, Tools and Abilities</h3>
+    <img align="center" alt="html" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" alt="css" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img align="center" alt="js" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="" height="30" width="40"
-        src="">
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
     <img align="center" alt="" height="30" width="40"
-        src="">
-    <img align="center" alt="" height="30" width="40"
-        src="">
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
     <img align="center" alt="Git" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Github" height="30" width="40"
@@ -56,8 +60,8 @@
 
 <div align="center">
     <h3>🧐 More About Me</h3>
-    <p>🔭 I’m currently working on ...</p>
-    <p>🌱 I’m currently learning ... </p>
+    <p>🔭 I’m currently working on ... Freelance and Personal Projects</p>
+    <p>🌱 I’m currently learning ... Desenvolvimento Full Stack...</p>
 </div>
 
 <hr>
