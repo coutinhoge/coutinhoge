@@ -39,7 +39,6 @@
 
 <div align="center">
     <h3>📊 Github Stats</h3>
-    <img src='https://github.com/gabriel-079/gabriel-079/blob/main/octocat.gif' width='145' align='left' alt="Octocat">
     <a href="https://github.com/gabriel-079">
         <img src="https://github-readme-stats.vercel.app/api?username=gabriel-079&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
             height="145em" alt="html">
