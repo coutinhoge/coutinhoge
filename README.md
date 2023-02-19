@@ -42,7 +42,7 @@
     <img src='https://github.com/gabriel-079/gabriel-079/blob/main/octocat.gif' width='130' align='left' alt="Octocat">
     <a href="https://github.com/gabriel-079">
         <img src="https://github-readme-stats.vercel.app/api?username=gabriel-079&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-            height="135em" alt="html">
+            height="130em" alt="html">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-079&layout=compact&langs_count=7&theme=tokyonight"
             height="130em" alt="html">
 </div>
