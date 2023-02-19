@@ -1,7 +1,7 @@
 <!-- This readme was created by Gabriel Coutinho - https://github.com/gabriel-079 -->
 
 <div align="center">
-    <img src="one.gif" height="130em" alt="programmer gif">
+    <img src="one.gif" height="135em" alt="programmer gif">
 </div>
 
 <hr>
@@ -40,15 +40,15 @@
 <div align="center">
     <h3>📊 Github Stats</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=gabriel-079&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-        height="130em" alt="html">
+        height="135em" alt="html">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-079&layout=compact&langs_count=7&theme=tokyonight"
-        height="130em" alt="html">
+        height="135em" alt="html">
 </div>
 
 <hr>
 
 <div align="center">
-    <img src="two.gif" height="130em" alt="binary code">
+    <img src="two.gif" height="135em" alt="binary code">
 </div>
 
 <!-- This readme was created by Gabriel Coutinho - https://github.com/gabriel-079 -->
