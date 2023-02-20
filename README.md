@@ -1,5 +1,4 @@
 <!-- This readme was created by Gabriel Coutinho - https://github.com/gabriel-079 -->
-
 <div align="center">
     <img src="one.gif" height="130em" alt="programmer gif">
 </div>
@@ -50,5 +49,4 @@
 <div align="center">
     <img src="two.gif" height="130em" alt="binary code">
 </div>
-
 <!-- This readme was created by Gabriel Coutinho - https://github.com/gabriel-079 -->
