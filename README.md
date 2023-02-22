@@ -43,9 +43,9 @@
 <div align="center">
     <h3>📊 Github Stats</h3>
     <a href="https://github.com/gabriel-079">
-        <img height="135em"
+        <img height="130em"
             src="https://github-readme-stats.vercel.app/api?username=gabriel-079&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
-        <img height="135em"
+        <img height="130em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-079&layout=compact&langs_count=7&theme=onedark" />
 </div>
 
