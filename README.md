@@ -5,7 +5,7 @@
 <hr>
 
 <div align="center">
-    <h3>😉 Sobre mim:</h3>
+    <h3>😉 Sobre mim</h3>
     <p>- Sou um engenheiro de software full-stack, com experiência previa em projetos freela(nichos variados) e
         pessoais(projetos internos). Até o momento trabalhei mais com tecnologias web (back-end e front-end).</p>
     <p>- Estou constantemente a procura de conhecimento das melhores práticas de codificação, como padrões de projeto,
@@ -18,7 +18,7 @@
 <hr>
 
 <div align="center">
-    <h3>🚀 Habilidades:</h3>
+    <h3>🚀 Habilidades</h3>
     <img align="center" alt="html" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt="css" height="30" width="40"
