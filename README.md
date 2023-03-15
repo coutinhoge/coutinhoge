@@ -6,11 +6,9 @@
 
 <div align="center">
     <h3>😉 Sobre mim</h3>
-    <p>- Sou um engenheiro de software full-stack, com experiência previa em projetos pessoais(internos). Estou
-        constantemente a procura de conhecimento das melhores práticas de codificação, como padrões de projeto,
-        arquitetura limpa, código limpo e testes.</p>
-    <p>- Gosto de pensar que a tecnologia, quando bem aplicada, não só melhora o nosso dia a dia, como nos abre um mar de
-        novas possibilidades.</p>
+    <p>Sou um engenheiro de software Mobile, com experiência previa em projetos pessoais. Estou constantemente a
+        procura de conhecimento das melhores práticas de codificação, como padrões de projeto, arquitetura limpa, código
+        limpo e testes.</p>
 </div>
 
 <hr>
